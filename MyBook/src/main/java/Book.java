@@ -13,7 +13,7 @@ public class Book {
 
     public int createChapter(String chapter) {
         chapters.add(new Chapter(chapter));
-        return chapters.size();
+        return chapters.size() - 1;
     }
 
     public void addAuthor(Author author) { authors.add(author); }

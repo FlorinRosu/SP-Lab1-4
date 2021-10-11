@@ -19,7 +19,7 @@ public class Chapter {
 
     public int createSubChapter(String subChapterName) {
         subChapters.add(new SubChapter(subChapterName));
-        return subChapters.size();
+        return subChapters.size() - 1;
     }
 
     public SubChapter getSubChapter(int subchapterIndex) {
