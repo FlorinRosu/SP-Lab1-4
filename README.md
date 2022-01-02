@@ -21,3 +21,8 @@ https://github.com/nevalenti/SP-Lab1/commit/0e75d307cbcaeb9670a4ea2f8a15922faf51
 
 # Feedback lab5:
 no content
+
+# Feedback lab6: 
+no content
+
+# Proposed grade: 6
